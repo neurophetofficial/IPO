@@ -36,7 +36,7 @@ jobs:
           echo '            "name": name,' >> convert.py
           echo '            "combo": combo,' >> convert.py
           echo '            "account": account,' >> convert.py
-          echo '            "stockPrice": 13500,' >> convert.py
+          echo '            "stockPrice": 14000,' >> convert.py
           echo '            "sharesOwned": sharesOwned' >> convert.py
           echo '        })' >> convert.py
           echo 'with open("data.json", "w", encoding="utf-8") as f:' >> convert.py
