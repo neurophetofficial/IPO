@@ -36,6 +36,34 @@
             "sharesOwned": 5
         },
         {
+            "name": "임동호",
+            "combo": "삼성증권",
+            "account": "708189674401",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "강보라",
+            "combo": "한국투자증권",
+            "account": "6787158601",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "정창조",
+            "combo": "삼성증권",
+            "account": "1587534101",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "정명연",
+            "combo": "키움증권",
+            "account": "51953471",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(1)이선호■■■",
             "combo": "1",
             "account": "1",
