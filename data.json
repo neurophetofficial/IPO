@@ -139,6 +139,139 @@
             "account": "50560258",
             "stockPrice": 14000,
             "sharesOwned": 5
+        },
+        {
+            "name": "■■■(2)김태오■■■",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 14000,
+            "sharesOwned": 1
+        },
+        {
+            "name": "김영선",
+            "combo": "SK증권",
+            "account": "101084981",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "송기",
+            "combo": "키움증권",
+            "account": "52770906",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "이철근",
+            "combo": "토스증권",
+            "account": "17201039052",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "박상서",
+            "combo": "NH투자증권",
+            "account": "20001368278",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "황계숙",
+            "combo": "키움증권",
+            "account": "54464579",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김수한",
+            "combo": "삼성증권",
+            "account": "708915797801",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "박인덕",
+            "combo": "KB증권",
+            "account": "03601207417",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "양현기",
+            "combo": "미래에셋증권",
+            "account": "216299029560",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김은연",
+            "combo": "나무증권",
+            "account": "20501995226",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김진숙",
+            "combo": "삼성증권",
+            "account": "709457997201",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "이성하",
+            "combo": "키움증권",
+            "account": "5200284711",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "박찬승",
+            "combo": "삼성증권",
+            "account": "709700666301",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "안상돈",
+            "combo": "신한투자증권",
+            "account": "08350566015",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김민서",
+            "combo": "토스증권",
+            "account": "12901021990",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "윤태순",
+            "combo": "키움증권",
+            "account": "53416109",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "장혜자",
+            "combo": "유안타증권",
+            "account": "842721720132",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김창길",
+            "combo": "삼성증권",
+            "account": "712981372001",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "이동수",
+            "combo": "한화투자증권",
+            "account": "01111372239",
+            "stockPrice": 14000,
+            "sharesOwned": 5
         }
     ]
 }
