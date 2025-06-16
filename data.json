@@ -13,6 +13,27 @@
             "account": "12345678",
             "stockPrice": 14000,
             "sharesOwned": 500
+        },
+        {
+            "name": "■■■김상욱■■■",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 14000,
+            "sharesOwned": 1
+        },
+        {
+            "name": "최찬호",
+            "combo": "키움증권",
+            "account": "53319722",
+            "stockPrice": 14000,
+            "sharesOwned": 505
+        },
+        {
+            "name": "변재철",
+            "combo": "한국투자증권",
+            "account": "7485739701",
+            "stockPrice": 14000,
+            "sharesOwned": 5
         }
     ]
 }
