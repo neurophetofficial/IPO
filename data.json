@@ -4,8 +4,15 @@
             "name": "1",
             "combo": "== 선택 ==",
             "account": "1",
-            "stockPrice": 13500,
+            "stockPrice": 14000,
             "sharesOwned": 100
+        },
+        {
+            "name": "홍길동",
+            "combo": "키움증권",
+            "account": "12345678",
+            "stockPrice": 14000,
+            "sharesOwned": 500
         }
     ]
 }
