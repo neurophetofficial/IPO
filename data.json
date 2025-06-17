@@ -419,6 +419,13 @@
             "account": "01111372239",
             "stockPrice": 14000,
             "sharesOwned": 5
+        },
+        {
+            "name": "이상율",
+            "combo": "KB증권",
+            "account": "343375749",
+            "stockPrice": 14000,
+            "sharesOwned": 5
         }
     ]
 }
