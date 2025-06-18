@@ -482,6 +482,13 @@
             "account": "343375749",
             "stockPrice": 14000,
             "sharesOwned": 5
+        },
+        {
+            "name": "조필자",
+            "combo": "아이엠증권",
+            "account": "2086481311",
+            "stockPrice": 14000,
+            "sharesOwned": 5
         }
     ]
 }
