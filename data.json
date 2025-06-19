@@ -240,8 +240,15 @@
         },
         {
             "name": "임정표",
-            "combo": "NH투자증권",
+            "combo": "나무위키",
             "account": "22001031361",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "전병선",
+            "combo": "한국투자증권",
+            "account": "6331489901",
             "stockPrice": 14000,
             "sharesOwned": 5
         },
