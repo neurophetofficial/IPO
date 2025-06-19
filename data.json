@@ -78,6 +78,27 @@
             "sharesOwned": 5
         },
         {
+            "name": "이명근",
+            "combo": "키움증권",
+            "account": "55453352",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김용수",
+            "combo": "토스증권",
+            "account": "10101038803",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김경남",
+            "combo": "토스증권",
+            "account": "11401064074",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(1)이선호■■■",
             "combo": "1",
             "account": "1",
