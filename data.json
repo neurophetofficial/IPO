@@ -524,6 +524,20 @@
             "account": "2086481311",
             "stockPrice": 14000,
             "sharesOwned": 5
+        },
+        {
+            "name": "■■■(2)백성현■■■",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 14000,
+            "sharesOwned": 1
+        },
+        {
+            "name": "정두호",
+            "combo": "대신증권",
+            "account": "780140110",
+            "stockPrice": 14000,
+            "sharesOwned": 5
         }
     ]
 }
