@@ -183,6 +183,55 @@
             "sharesOwned": 10
         },
         {
+            "name": "■■■(1)정하영■■■",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 14000,
+            "sharesOwned": 1
+        },
+        {
+            "name": "조기남",
+            "combo": "키움증권",
+            "account": "55528038",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "하재현",
+            "combo": "미래에셋증권",
+            "account": "010860221150",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "박명완",
+            "combo": "키움증권",
+            "account": "61663485",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김종화",
+            "combo": "신한투자증권",
+            "account": "01311137503",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "안영석",
+            "combo": "카카오페이증권",
+            "account": "2009585399",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "박미라",
+            "combo": "토스증권",
+            "account": "16201001723",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(2)김현수■■■",
             "combo": "1",
             "account": "1",
