@@ -183,6 +183,76 @@
             "sharesOwned": 10
         },
         {
+            "name": "■■■(1)최건호■■■",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 14000,
+            "sharesOwned": 1
+        },
+        {
+            "name": "정규인",
+            "combo": "토스증권",
+            "account": "13401033353",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "이말희",
+            "combo": "NH투자증권",
+            "account": "04901210836",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김봉길",
+            "combo": "삼성증권",
+            "account": "10463881",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "노대현",
+            "combo": "한국투자증권",
+            "account": "6832112201",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "정인우",
+            "combo": "토스증권",
+            "account": "14301038424",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "박정열",
+            "combo": "삼성증권",
+            "account": "706930036601",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "이성남",
+            "combo": "KB증권",
+            "account": "25220964001",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "박용숙",
+            "combo": "키움증권",
+            "account": "55977837",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "현미화",
+            "combo": "대신증권",
+            "account": "780484727",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
             "name": "■■■(1)정하영■■■",
             "combo": "1",
             "account": "1",
