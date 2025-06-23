@@ -741,6 +741,13 @@
             "account": "780140110",
             "stockPrice": 14000,
             "sharesOwned": 5
+        },
+        {
+            "name": "송창기",
+            "combo": "키움증권",
+            "account": "60013242",
+            "stockPrice": 14000,
+            "sharesOwned": 5
         }
     ]
 }
