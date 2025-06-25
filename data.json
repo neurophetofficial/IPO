@@ -302,6 +302,48 @@
             "sharesOwned": 5
         },
         {
+            "name": "송영식",
+            "combo": "NH투자증권",
+            "account": "03601212036",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "한현희",
+            "combo": "나무증권",
+            "account": "20101818127",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "최혜연",
+            "combo": "신한투자증권",
+            "account": "27032105432",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "장진혁",
+            "combo": "토스증권",
+            "account": "16401059542",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "홍영진",
+            "combo": "카카오페이증권",
+            "account": "02002708468",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김정숙",
+            "combo": "키움증권",
+            "account": "5515855611",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(2)김현수■■■",
             "combo": "1",
             "account": "1",
