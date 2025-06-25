@@ -575,6 +575,34 @@
             "sharesOwned": 5
         },
         {
+            "name": "석정호",
+            "combo": "키움증권",
+            "account": "61588963",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "안장길",
+            "combo": "삼성증권",
+            "account": "708677486501",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "정선심",
+            "combo": "키움증권",
+            "account": "58936070",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김종훈",
+            "combo": "키움증권",
+            "account": "33597531",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(2)김태오■■■",
             "combo": "1",
             "account": "1",
