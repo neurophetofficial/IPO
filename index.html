@@ -12,13 +12,21 @@
 </head>
 <body>
 
-        <header class="navbar">
-        <div class="navbar-container">
-            <a href="index.html" class="logo-link">
-                <img src="images/favicon.svg" alt="로고" class="logo">
-            </a>
-        </div>
-    </header>
+<header class="navbar">
+  <div class="navbar-container">
+    <a href="index.html" class="logo-link">
+      <img src="images/favicon.svg" alt="로고" class="logo" />
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="메뉴 열기">
+  &#9776;  <!-- 햄버거 아이콘 -->
+</button>
+  </div>
+  <nav class="nav-menu" id="navMenu">
+    <a href="index.html">메인</a>
+    <a href="index.html#login">보유주수 확인</a>
+    <a href="contact.html" class="red-text">문의하기</a>
+  </nav>
+</header>
 
     <main class="main-hero">
     <h1 class="hero-line hero-line-1">The Pioneer in</h1>
@@ -40,7 +48,7 @@
 
 
 <!-- 로그인 섹션 -->
-<section class="login-section">
+<section class="login-section" id="login">
   <div class="login-title-box">
     <h2 class="login-title">보유주수 확인</h2>
 
