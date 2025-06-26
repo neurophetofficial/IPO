@@ -16,6 +16,7 @@
     margin: 0;
     padding: 0;
     font-family: 'Pretendard', Arial, sans-serif;
+    scroll-behavior: smooth;
   }
 
 
@@ -42,6 +43,7 @@
 .logo {
     height: 29px;
     width: auto;
+    z-index: 10000;  
 }
 
 /* 로고를 클릭할 수 있도록 */
@@ -50,6 +52,76 @@
     align-items: center;
     text-decoration: none;
 }
+
+/* 햄버거 버튼 */
+.menu-toggle {
+  background: none;
+  border: none;
+  font-size: 28px;
+  cursor: pointer;
+  color: #333;
+  margin-left: auto;
+  z-index: 10000;    
+  position: relative; 
+}
+
+/* 기본 숨김 상태 */
+.nav-menu {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 0;           /* 초기엔 숨김 */
+  height: 100vh;
+  background-color: #fff;
+  overflow-x: hidden;
+  transition: width 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 60px; /* navbar 높이만큼 패딩 */
+  box-shadow: -4px 0 12px rgba(0,0,0,0.2);
+  z-index: 9999;
+}
+
+/* 열릴 때 */
+.nav-menu.show {
+  width: 100vw;       /* 화면 전체 너비로 확장 */
+}
+
+/* 메뉴 링크 스타일 */
+.nav-menu a {
+  font-size: 1.3rem;  /* 큼직한 글씨 */
+  font-weight: 700 !important;
+  padding: 20px 50px;
+  color: #000000;
+  text-decoration: none;
+  width: 100%;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+}
+
+.nav-menu a:last-child {
+  border-bottom: none;
+}
+
+.close-icon {
+  font-weight: 500 !important;
+  font-family: 'Roboto', sans-serif !important;
+  font-size: 32px;
+  line-height: 1;
+  display: inline-block;
+}
+
+.nav-menu a.red-text {
+  color: #d90833;          /* 기본 빨간 글씨 */
+  transition: color 0.3s ease;
+}
+
+.nav-menu a.red-text:hover {
+  color: #a70a2a;          /* 호버 시 좀 더 진한 빨간 */
+}
+
+
 
 
 
@@ -1010,3 +1082,35 @@
   opacity: 1;
   transform: translateY(0);
 }
+
+
+
+
+
+.page-title {
+  margin-top: 40px;
+  background-color: #fff;   /* 흰 배경 */
+  padding: 60px 20px;       /* 위아래 60px, 좌우 20px */
+  text-align: center;       /* 가운데 정렬 */
+}
+
+.page-title h1 {
+  margin: 0;
+  font-size: 2.5rem;        /* 원하는 크기로 조정 */
+  font-weight: 700;         /* 적당히 굵게 */
+  color: #000;              /* 검정 텍스트 */
+}
+
+
+
+.tally-section {
+  background-color: #ffffff; /* 은은한 배경색 (선택) */
+  padding: 40px 20px;
+}
+
+.tally-container {
+  margin: 0 auto;        /* 가운데 정렬 */
+  width: 100%;
+  padding: 0 20px;       /* 좌우 20px 여백 추가 */
+}
+
