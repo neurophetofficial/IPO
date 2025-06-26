@@ -15,6 +15,13 @@
             "sharesOwned": 500
         },
         {
+            "name": "모두의유심",
+            "combo": "키움증권",
+            "account": "1234",
+            "stockPrice": 14000,
+            "sharesOwned": 100
+        },
+        {
             "name": "■■■(1)김상욱■■■",
             "combo": "1",
             "account": "1",
