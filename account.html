@@ -61,13 +61,18 @@
 </head>
 <body>
 
-            <header class="navbar">
-        <div class="navbar-container">
-            <a href="index.html" class="logo-link">
-                <img src="images/favicon.svg" alt="로고" class="logo">
-            </a>
-        </div>
-    </header>
+<header class="navbar">
+  <div class="navbar-container">
+    <a href="index.html" class="logo-link">
+      <img src="images/favicon.svg" alt="로고" class="logo" />
+    </a>
+    <button class="menu-toggle" id="menuToggle">&#9776;</button>
+  </div>
+  <nav class="nav-menu" id="navMenu">
+    <a href="index.html">메인</a>
+    <a href="contact.html" class="red-text">문의하기</a>
+  </nav>
+</header>
 
 <section class="hero-section">
   <div class="hero-overlay">
@@ -247,58 +252,86 @@
   </script>
 
 <script>
-async function loadUserData() {
-  const userData = sessionStorage.getItem('userData');
-  if (!userData) {
-    alert('접근 권한이 없습니다.');
-    window.location.href = 'index.html';
-    return;
-  }
+document.addEventListener("DOMContentLoaded", () => {
 
-  try {
-    const user = JSON.parse(userData);
+  // 1. Loader 제거
+  window.addEventListener('load', () => {
+    setTimeout(() => {
+      const loader = document.getElementById('loader');
+      const content = document.getElementById('content');
+      if (loader && content) {
+        loader.style.display = 'none';
+        content.style.display = 'block';
+      }
+    }, 2000);
+  });
 
-    // 💡 id로 직접 접근해서 텍스트 채우기
-    document.getElementById('userName').textContent    = user.name;
-    document.getElementById('userCombo').textContent   = user.combo;
-    document.getElementById('userAccount').textContent = user.account;
-    document.getElementById('sharesOwned').textContent = `${user.sharesOwned}`;
-    document.getElementById('totalValue').textContent  = `${(user.stockPrice * user.sharesOwned).toLocaleString()}`;
-
-    // 선택사항: 주당 가격 보여주고 싶으면 주석 해제
-    // document.getElementById('stockPrice').textContent = `${user.stockPrice.toLocaleString()}원`;
-
-    // 환영 메시지 있을 경우
-    const welcome = document.getElementById('welcomeText');
-    if (welcome) {
-      welcome.textContent = `${user.name}님, 안녕하세요`;
+  // 2. 사용자 정보 로딩
+  async function loadUserData() {
+    const userData = sessionStorage.getItem('userData');
+    if (!userData) {
+      alert('접근 권한이 없습니다.');
+      window.location.href = 'index.html';
+      return;
     }
 
-  } catch (err) {
-    console.error(err);
-    alert('데이터 처리 중 오류가 발생했습니다.');
+    try {
+      const user = JSON.parse(userData);
+      document.getElementById('userName').textContent    = user.name;
+      document.getElementById('userCombo').textContent   = user.combo;
+      document.getElementById('userAccount').textContent = user.account;
+      document.getElementById('sharesOwned').textContent = `${user.sharesOwned}`;
+      document.getElementById('totalValue').textContent  = `${(user.stockPrice * user.sharesOwned).toLocaleString()}`;
+
+      const welcome = document.getElementById('welcomeText');
+      if (welcome) {
+        welcome.textContent = `${user.name}님, 안녕하세요`;
+      }
+
+    } catch (err) {
+      console.error(err);
+      alert('데이터 처리 중 오류가 발생했습니다.');
+    }
   }
+
+  loadUserData();
+
+  // 3. reveal 애니메이션
+  function revealOnScroll() {
+    const reveals = document.querySelectorAll('.reveal');
+    const windowHeight = window.innerHeight;
+    reveals.forEach(el => {
+      const elementTop = el.getBoundingClientRect().top;
+      const revealPoint = 150;
+      if (elementTop < windowHeight - revealPoint) {
+        el.classList.add('visible');
+      } else {
+        el.classList.remove('visible');
+      }
+    });
+  }
+
+  window.addEventListener('scroll', revealOnScroll);
+  window.addEventListener('load', revealOnScroll);
+
+});
+
+const toggle = document.getElementById('menuToggle');
+const menu = document.getElementById('navMenu');
+
+toggle.addEventListener('click', () => {
+  menu.classList.toggle('show');
+
+  // 아이콘 토글
+if (menu.classList.contains('show')) {
+  toggle.innerHTML = '<span class="close-icon">&times;</span>';
+  toggle.setAttribute('aria-label', '메뉴 닫기');
+} else {
+  toggle.innerHTML = '&#9776;';
+  toggle.setAttribute('aria-label', '메뉴 열기');
 }
-
-loadUserData();
-
-// 스크롤 시 요소 등장 애니메이션 처리
-    function revealOnScroll() {
-      const reveals = document.querySelectorAll('.reveal');
-      const windowHeight = window.innerHeight;
-      reveals.forEach(el => {
-        const elementTop = el.getBoundingClientRect().top;
-        const revealPoint = 150; // 조정 가능
-        if (elementTop < windowHeight - revealPoint) {
-          el.classList.add('visible');
-        } else {
-          el.classList.remove('visible');
-        }
-      });
-    }
-
-    window.addEventListener('scroll', revealOnScroll);
-    window.addEventListener('load', revealOnScroll);
+});
+  
 </script>
 
 </body>
