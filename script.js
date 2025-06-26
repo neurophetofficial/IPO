@@ -32,13 +32,39 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   // --- 2) 로그인 폼 핸들러 (optional) ---
-  const form = document.getElementById('loginForm');
-  if (form) {
-    form.addEventListener('submit', async e => {
-      e.preventDefault();
-      /* 기존 로그인 로직 그대로 */
-    });
-  }
+const form = document.getElementById('loginForm');
+if (form) {
+  form.addEventListener('submit', async e => {
+    e.preventDefault();
+
+    const nameVal    = document.getElementById('name').value.trim();
+    const comboVal   = document.getElementById('combo').value;
+    const accountVal = document.getElementById('account').value.trim();
+
+    try {
+      const res = await fetch('data.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const { users } = await res.json();
+
+      const user = users.find(u =>
+        u.name    === nameVal &&
+        u.combo   === comboVal &&
+        u.account === accountVal
+      );
+
+      if (user) {
+        sessionStorage.setItem('userData', JSON.stringify(user));
+        window.location.href = 'account.html';
+      } else {
+        alert('입력하신 정보가 일치하지 않습니다. 다시 확인해 주세요.');
+      }
+
+    } catch (err) {
+      console.error(err);
+      alert('서버에 문제가 발생했습니다. 잠시 후 다시 시도해주세요.');
+    }
+  });
+}
 
   // --- 3) 협력사 캐러셀 (optional) ---
   const partnerList = document.querySelector('.partner-list');
