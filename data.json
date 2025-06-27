@@ -351,6 +351,27 @@
             "sharesOwned": 5
         },
         {
+            "name": "전해석",
+            "combo": "미래에셋증권",
+            "account": "378331828780",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "이지영",
+            "combo": "KB증권",
+            "account": "24444851001",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "오원균",
+            "combo": "신한투자증권",
+            "account": "13011147884",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(1)김수환■■■",
             "combo": "1",
             "account": "1",
@@ -452,6 +473,13 @@
             "name": "정동환",
             "combo": "KB증권",
             "account": "12201100406",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "신진식",
+            "combo": "미래에셋증권",
+            "account": "012225041362",
             "stockPrice": 14000,
             "sharesOwned": 10
         },
