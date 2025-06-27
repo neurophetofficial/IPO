@@ -750,6 +750,48 @@
             "sharesOwned": 5
         },
         {
+            "name": "조민자",
+            "combo": "LS증권",
+            "account": "20250315501",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "이창식",
+            "combo": "KB증권",
+            "account": "04701202417",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "지문구",
+            "combo": "KB증권",
+            "account": "08801111134",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "이근식",
+            "combo": "NH투자증권",
+            "account": "20101992922",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김지민",
+            "combo": "미래에셋증권",
+            "account": "220221033198",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "이성만",
+            "combo": "카카오페이증권",
+            "account": "02007822986",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(2)김태오■■■",
             "combo": "1",
             "account": "1",
