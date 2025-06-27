@@ -351,6 +351,111 @@
             "sharesOwned": 5
         },
         {
+            "name": "■■■(1)김수환■■■",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 14000,
+            "sharesOwned": 1
+        },
+        {
+            "name": "이재룡",
+            "combo": "카카오페이증권",
+            "account": "02009454439",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "박광수",
+            "combo": "신한투자증권",
+            "account": "27071899242",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "황두진",
+            "combo": "미래에셋증권",
+            "account": "592266421040",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "김종석",
+            "combo": "키움증권",
+            "account": "55272563",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "최현숙",
+            "combo": "유안타증권",
+            "account": "135321310122",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "백성원",
+            "combo": "대신증권",
+            "account": "15711421501",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "홍성윤",
+            "combo": "NH투자증권",
+            "account": "20201739639",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "유정필",
+            "combo": "삼성증권",
+            "account": "711317817101",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "최석권",
+            "combo": "삼성증권",
+            "account": "708005623202",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "정철호",
+            "combo": "삼성증권",
+            "account": "707503659001",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "김명자",
+            "combo": "삼성증권",
+            "account": "5712713801",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "최은진",
+            "combo": "KB증권",
+            "account": "32736684101",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "김현숙",
+            "combo": "KB증권",
+            "account": "01901115630",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "정동환",
+            "combo": "KB증권",
+            "account": "12201100406",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
             "name": "■■■(2)김현수■■■",
             "combo": "1",
             "account": "1",
