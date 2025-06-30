@@ -379,6 +379,27 @@
             "sharesOwned": 5
         },
         {
+            "name": "김안순",
+            "combo": "신한투자증권",
+            "account": "10711118042",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "배선미",
+            "combo": "미래에셋증권",
+            "account": "308721652480",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김기남",
+            "combo": "유안타증권",
+            "account": "944000902726",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(1)김수환■■■",
             "combo": "1",
             "account": "1",
