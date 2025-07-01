@@ -645,6 +645,27 @@
             "sharesOwned": 5
         },
         {
+            "name": "유동선",
+            "combo": "미래에셋증권",
+            "account": "03899083759",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "이상",
+            "combo": "교보증권",
+            "account": "15700580501",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "최영수",
+            "combo": "토스증권",
+            "account": "17101018526",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(2)김혜주■■■",
             "combo": "1",
             "account": "1",
