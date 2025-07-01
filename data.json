@@ -1063,6 +1063,13 @@
             "account": "60013242",
             "stockPrice": 14000,
             "sharesOwned": 5
+        },
+        {
+            "name": "김명숙",
+            "combo": "키움증권",
+            "account": "37383862",
+            "stockPrice": 14000,
+            "sharesOwned": 105
         }
     ]
 }
