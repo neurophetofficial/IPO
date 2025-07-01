@@ -267,6 +267,41 @@
             "sharesOwned": 10
         },
         {
+            "name": "이창형",
+            "combo": "KB증권",
+            "account": "360657349",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "장윤규",
+            "combo": "KB증권",
+            "account": "260961961",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "조병용",
+            "combo": "대신증권",
+            "account": "407151988",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "김양헌",
+            "combo": "DB금융투자증권",
+            "account": "01988029898",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "김현주",
+            "combo": "대신증권",
+            "account": "143109312",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
             "name": "■■■(1)정하영■■■",
             "combo": "1",
             "account": "1",
