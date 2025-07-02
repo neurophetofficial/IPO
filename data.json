@@ -1126,6 +1126,13 @@
             "account": "37383862",
             "stockPrice": 14000,
             "sharesOwned": 105
+        },
+        {
+            "name": "임병조",
+            "combo": "LS증권",
+            "account": "20592698901",
+            "stockPrice": 14000,
+            "sharesOwned": 55
         }
     ]
 }
