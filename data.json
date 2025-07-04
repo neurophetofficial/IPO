@@ -1144,7 +1144,14 @@
         {
             "name": "김민결",
             "combo": "나무증권",
-            "account": "20701033265",
+            "account": "20701519197",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "임승자",
+            "combo": "나무증권",
+            "account": "20901407912",
             "stockPrice": 14000,
             "sharesOwned": 5
         },
