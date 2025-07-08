@@ -383,7 +383,7 @@
             "combo": "신한투자증권",
             "account": "27032105432",
             "stockPrice": 14000,
-            "sharesOwned": 5
+            "sharesOwned": 25
         },
         {
             "name": "장진혁",
@@ -439,7 +439,7 @@
             "combo": "미래에셋증권",
             "account": "308721652480",
             "stockPrice": 14000,
-            "sharesOwned": 305
+            "sharesOwned": 472
         },
         {
             "name": "김기남",
