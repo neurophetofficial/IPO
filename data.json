@@ -1226,6 +1226,34 @@
             "sharesOwned": 5
         },
         {
+            "name": "이수길",
+            "combo": "교보증권",
+            "account": "15742675001",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "심민기",
+            "combo": "신한투자증권",
+            "account": "05511110725",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "김홍종",
+            "combo": "키움증권",
+            "account": "63094553",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
+            "name": "최종화",
+            "combo": "NH투자증권",
+            "account": "28102304015",
+            "stockPrice": 14000,
+            "sharesOwned": 5
+        },
+        {
             "name": "■■■(2)백성현■■■",
             "combo": "1",
             "account": "1",
