@@ -1315,6 +1315,34 @@
             "account": "20592698901",
             "stockPrice": 14000,
             "sharesOwned": 305
+        },
+        {
+            "name": "■■■(3)이지훈■■■",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 14000,
+            "sharesOwned": 1
+        },
+        {
+            "name": "지현배",
+            "combo": "나무증권",
+            "account": "20301311372",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "■■■(3)박지민■■■",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 14000,
+            "sharesOwned": 1
+        },
+        {
+            "name": "장재인",
+            "combo": "신한투자증권",
+            "account": "27027639791",
+            "stockPrice": 14000,
+            "sharesOwned": 10
         }
     ]
 }
