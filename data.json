@@ -1357,6 +1357,27 @@
             "account": "25908625201",
             "stockPrice": 14000,
             "sharesOwned": 10
+        },
+        {
+            "name": "■■■(3)이상준■■■",
+            "combo": "1",
+            "account": "1",
+            "stockPrice": 14000,
+            "sharesOwned": 1
+        },
+        {
+            "name": "최준영",
+            "combo": "NH투자증권",
+            "account": "20201903003",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "우수호",
+            "combo": "NH투자증권",
+            "account": "20201524568",
+            "stockPrice": 14000,
+            "sharesOwned": 10
         }
     ]
 }
