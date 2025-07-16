@@ -1345,6 +1345,34 @@
             "sharesOwned": 10
         },
         {
+            "name": "이면주",
+            "combo": "키움증권",
+            "account": "51726046",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "이형관",
+            "combo": "키움증권",
+            "account": "55391171",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "이승훈",
+            "combo": "키움증권",
+            "account": "59499397",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "안혜정",
+            "combo": "미래에셋증권",
+            "account": "776780082160",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
             "name": "■■■(3)박지민■■■",
             "combo": "1",
             "account": "1",
@@ -1439,6 +1467,13 @@
             "name": "박종성",
             "combo": "키움증권",
             "account": "58194085",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "김종훈",
+            "combo": "신한투자증권",
+            "account": "11511245018",
             "stockPrice": 14000,
             "sharesOwned": 10
         }
