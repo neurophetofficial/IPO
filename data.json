@@ -1331,6 +1331,20 @@
             "sharesOwned": 10
         },
         {
+            "name": "정유진",
+            "combo": "키움증권",
+            "account": "55938913",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "김광수",
+            "combo": "한국투자증권",
+            "account": "6443673301",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
             "name": "■■■(3)박지민■■■",
             "combo": "1",
             "account": "1",
@@ -1366,6 +1380,13 @@
             "sharesOwned": 10
         },
         {
+            "name": "김민아",
+            "combo": "KB증권",
+            "account": "27749920301",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
             "name": "■■■(3)이상준■■■",
             "combo": "1",
             "account": "1",
@@ -1383,6 +1404,20 @@
             "name": "우수호",
             "combo": "NH투자증권",
             "account": "20201524568",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "황준식",
+            "combo": "토스증권",
+            "account": "14601036554",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "박종성",
+            "combo": "키움증권",
+            "account": "58194085",
             "stockPrice": 14000,
             "sharesOwned": 10
         }
