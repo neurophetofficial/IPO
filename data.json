@@ -1380,6 +1380,27 @@
             "sharesOwned": 10
         },
         {
+            "name": "이영구",
+            "combo": "한화투자증권",
+            "account": "04111337384",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "신태근",
+            "combo": "KB증권",
+            "account": "37011758101",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "김선경",
+            "combo": "하나증권",
+            "account": "37594401",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
             "name": "■■■(3)박지민■■■",
             "combo": "1",
             "account": "1",
