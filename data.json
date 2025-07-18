@@ -1511,6 +1511,34 @@
             "account": "11511245018",
             "stockPrice": 14000,
             "sharesOwned": 10
+        },
+        {
+            "name": "박경식",
+            "combo": "키움증권",
+            "account": "59461816",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "이상호",
+            "combo": "한국투자증권",
+            "account": "6303582301",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "김상엽",
+            "combo": "토스증권",
+            "account": "13801000156",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "임규윤",
+            "combo": "대신증권",
+            "account": "513107906",
+            "stockPrice": 14000,
+            "sharesOwned": 10
         }
     ]
 }
