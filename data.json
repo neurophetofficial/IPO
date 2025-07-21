@@ -1429,6 +1429,13 @@
             "sharesOwned": 10
         },
         {
+            "name": "한계남",
+            "combo": "한국투자증",
+            "account": "70418702",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
             "name": "■■■(3)김은지■■■",
             "combo": "1",
             "account": "1",
@@ -1537,6 +1544,27 @@
             "name": "임규윤",
             "combo": "대신증권",
             "account": "513107906",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "박점섭",
+            "combo": "하나증권",
+            "account": "37648375010",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "이승기",
+            "combo": "한국투자증권",
+            "account": "7391203701",
+            "stockPrice": 14000,
+            "sharesOwned": 10
+        },
+        {
+            "name": "이상묵",
+            "combo": "삼성증권",
+            "account": "709447362201",
             "stockPrice": 14000,
             "sharesOwned": 10
         }
